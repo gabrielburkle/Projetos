@@ -42,3 +42,5 @@ elif computador == 2: #TESOURA#
 
 else:
     print ('OPÇÃO INVÁLIDA, TENTE NOVAMENTE')
+
+    
