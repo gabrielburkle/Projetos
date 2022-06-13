@@ -24,3 +24,5 @@ elif opção == 4:
     valor total de R${:.2f}'''.format(preço, parcelas, parcela, resultado))
 else:
     print ('OPÇÃO INVÁLIDA, TENTE NOVAMENTE')
+
+    
